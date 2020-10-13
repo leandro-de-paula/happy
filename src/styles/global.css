@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #FFF;
+    background: #ebf2f5;
+}
+
+body, input, button, textarea {
+        font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: local('Nunito SemiBold'), local('Nunito-SemiBold'), url(https://fonts.gstatic.com/s/nunito/v14/XRXW3I6Li01BKofA6sKUbOvISTs.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
